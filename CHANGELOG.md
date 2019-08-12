@@ -2,6 +2,10 @@
 
 This file is used to list changes made in each version of docker-shopware-mysql.
 
+## 1.1.1 (August 12, 2019)
+
+* update mysql8
+
 ## 1.1.0 (June 6, 2019)
 
 * raise mysql thread_stack

@@ -16,7 +16,7 @@ This is intended to use in conjunction with [docker-shopware-php](https://github
 Base Image
 ----------
 
-[mysql:5.7](https://hub.docker.com/_/mysql)
+[mysql:8](https://hub.docker.com/_/mysql)
 
 Development
 -----------
