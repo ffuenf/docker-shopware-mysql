@@ -2,6 +2,10 @@
 
 This file is used to list changes made in each version of docker-shopware-mysql.
 
+## 1.1.3 (February 21, 2020)
+
+* update copyright notice / fix docker image layers badge
+
 ## 1.1.2 (August 13, 2019)
 
 * fix compatibility to mysql8

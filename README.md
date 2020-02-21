@@ -8,7 +8,7 @@ docker-shopware-mysql
 [![Build Status](https://img.shields.io/travis/ffuenf/docker-shopware-mysql.svg)](https://travis-ci.org/ffuenf/docker-shopware-mysql)
 [![Docker Pulls](https://img.shields.io/docker/pulls/ffuenf/docker-shopware-mysql.svg)](https://hub.docker.com/r/ffuenf/docker-shopware-mysql/)
 [![Docker Stars](https://img.shields.io/docker/stars/ffuenf/docker-shopware-mysql.svg)](https://hub.docker.com/r/ffuenf/docker-shopware-mysql/)
-[![Docker Layers](https://badge.imagelayers.io/ffuenf/shopware-mysql.svg)](https://imagelayers.io/?images=ffuenf/docker-shopware-mysql:latest)
+[![Docker Layers](https://images.microbadger.com/badges/image/ffuenf/docker-shopware-mysql.svg)](https://microbadger.com/images/ffuenf/docker-shopware-mysql)
 
 A docker image containing mysql for local shopware development.
 This is intended to use in conjunction with [docker-shopware-php](https://github.com/ffuenf/docker-shopware-php).
@@ -37,7 +37,7 @@ License and Author
 ------------------
 
 - Author:: Achim Rosenhagen (<a.rosenhagen@ffuenf.de>)
-- Copyright:: 2019, ffuenf
+- Copyright:: 2020, ffuenf
 
 The MIT License (MIT)
 
