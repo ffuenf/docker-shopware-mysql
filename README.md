@@ -16,7 +16,7 @@ This is intended to use in conjunction with [docker-shopware-php](https://github
 Base Image
 ----------
 
-[mysql:8](https://hub.docker.com/_/mysql)
+[mariadb:latest](https://hub.docker.com/_/mariadb)
 
 Development
 -----------
@@ -37,7 +37,7 @@ License and Author
 ------------------
 
 - Author:: Achim Rosenhagen (<a.rosenhagen@ffuenf.de>)
-- Copyright:: 2020, ffuenf
+- Copyright:: 2021, ffuenf
 
 The MIT License (MIT)
 

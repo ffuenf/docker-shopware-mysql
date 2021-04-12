@@ -1,6 +1,6 @@
-FROM mysql:8
+FROM mariadb:latest
 
-MAINTAINER Achim Rosenhagen <a.rosenhagen@ffuenf.de>
+LABEL maintainer="a.rosenhagen@ffuenf.de"
 
 RUN apt-get update \
   && apt-get install --no-install-recommends -y \
